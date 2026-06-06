@@ -1,4 +1,3 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6f2762b8-19d7-41c0-a0ca-997d44ea5c56" />
 
 <!--
 **jeboysuganob15-create/jeboysuganob15-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

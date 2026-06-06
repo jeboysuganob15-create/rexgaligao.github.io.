@@ -61,7 +61,7 @@ In this project, we are going to build a Gender Equality Reporting and Inclusion
 ---
 
 ## 📫 Contact Me
-**✉️Email:** jeboysuganob15@gmail.com | **🐙GitHub:** [Rex-Galigao](https://github.com/jeboysuganob15-create) |  *📞Phone:* 09670127090   **YouTube: | ** [jeboysuganob8552](https://www.youtube.com/@jeboysuganob8552) | [![GitHub](https://img.shields.io/badge/GitHub-Rex--Galigao-black?logo=github&logoColor=white)](https://github.com/jeboysuganob15-create)
+**✉️Email:** jeboysuganob15@gmail.com | **🐙GitHub:** [Rex-Galigao](https://github.com/jeboysuganob15-create) |  *📞Phone:* 09670127090   **YouTube: | ** [jeboysuganob8552](https://www.youtube.com/@jeboysuganob8552) 
 
 
   

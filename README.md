@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ## GALIGAO REX | PORTFOLIO
-
+---
 **Second Year BSIT Student | Davao Del Norte State College**   
 **Front-End Developer | Exploring Backend Basics**
 

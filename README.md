@@ -50,6 +50,7 @@ I am still learning the logic behind structuring data efficiently, especially in
 
 ![Java](https://img.shields.io/badge/Java-FFD700?logo=java&logoColor=white&style=for-the-badge) - *JAVA*
 
+---
 ##  Projects
 
 ### SUSTAINABLE BLUE ECONOMY NETWORK PORTAL

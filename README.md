@@ -40,7 +40,6 @@ I am still learning the logic behind structuring data efficiently, especially in
 
 ##  Projects
 
-
 ### SUSTAINABLE BLUE ECONOMY NETWORK PORTAL
 The Sustainable Blue Economy Network Portal is a web based platform that utilizes PHP for serverside scripting, MySQL for database development and CSS to provide an easy clean friendly design. It supports businesses on the coast that wish to register or advertise their work, while providing a platform for institutions and communities to share information, build bridges, and promote sustainable organization. The portal facilitates collaboration by improving visibility into marine biodiversity and therefore contributes to equitable opportunities aligned with global goals such as SDG 14: Life Below Water.
 
@@ -50,7 +49,6 @@ The Sustainable Blue Economy Network Portal is a web based platform that utilize
 
 ---
 
-
 ### GENDER EQUALIY REPORTING AND INCLUSION MONITORING SYSTEM (GERIMS) 
 In this project, we are going to build a Gender Equality Reporting and Inclusion Monitoring System — a secure web-based application using PHP, MySQL, custom CSS for easy and simple front end. The provisions within the platform allow for individuals to seamlessly log concerns or issues pertaining to gender matters online and institutions can track, assess and measure institutional inclusivity in a systematic manner. Reports are categorized for more clarity, administrators can pull them up and respond directly or track the progress through integration of data into databases. The goal is to is to create a transparent and accountable system that not only handles reports efficiently but also supports meaningful action toward gender equality.
 
@@ -59,7 +57,9 @@ In this project, we are going to build a Gender Equality Reporting and Inclusion
 ---
 
 ##  Contact Me
-- **Email:** jeboysuganob15@gmail.com  
-- **YouTube:** [jeboysuganob8552](https://www.youtube.com/@jeboysuganob8552)  
+- **Email:** jeboysuganob15@gmail.com
+- 
+- **YouTube:** [jeboysuganob8552](https://www.youtube.com/@jeboysuganob8552)
+- 
 - **GitHub:** [Rex-Galigao](https://github.com/jeboysuganob15-create)
 

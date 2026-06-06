@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 # GALIGAO REX | PORTFOLIO
 
-**Second Year BSIT Student | Davao Del Norte State College**    **Front-End Developer | Exploring Backend Basics**
+**Second Year BSIT Student | Davao Del Norte State College**   
+**Front-End Developer | Exploring Backend Basics**
 
 ## 📌 ABOUT ME
 I am a 2nd-year Bachelor of Science in Information Technology student at Davao del Norte State University. I am passionate about frontend development while also knowing slightly about backend, constantly practicing SQL and PHP to strengthen my foundation with a strong dedication to learning and developing in the endless possibilities technology has to offer.

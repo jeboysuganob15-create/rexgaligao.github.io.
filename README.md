@@ -22,12 +22,14 @@ Here are some ideas to get you started:
 **Second Year BSIT Student | Davao Del Norte State College**   
 **Front-End Developer | Exploring Backend Basics**
 
+---
 ## 📌 ABOUT ME
 I am a 2nd-year Bachelor of Science in Information Technology student at Davao del Norte State University. I am passionate about frontend development while also knowing slightly about backend, constantly practicing SQL and PHP to strengthen my foundation with a strong dedication to learning and developing in the endless possibilities technology has to offer.
 
 I am currently building my skills in UI design and gaining some expercience with backend concepts. Throug practicing HTML, CSS, and my SQL. My long‑term goal is to become IT professional who can design efficient systems and contribute to innovative projects that make a real impact.
 
 I am still learning the logic behind structuring data efficiently, especially in UI designing while also improving my skills in backend development. Through consistent practice with HTML, CSS, and MySQL.
+---
 
 ##  Skills
 **Frontend Development**  

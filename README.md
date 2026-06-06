@@ -69,4 +69,4 @@ In this project, we are going to build a Gender Equality Reporting and Inclusion
 
 ---
 ## 📫 Contact Me
- *📞Phone:* 096701270 | **✉️Email:** jeboysuganob15@gmail.com |  **🐙GitHub:** [Rex-Galigao](https://github.com/jeboysuganob15-create) | **YouTube:** [jeboysuganob8552](https://www.youtube.com/@jeboysuganob8552) 
+ *📞Phone:* 09670127090 | **✉️Email:** jeboysuganob15@gmail.com |  **🐙GitHub:** [Rex-Galigao](https://github.com/jeboysuganob15-create) | **YouTube:** [jeboysuganob8552](https://www.youtube.com/@jeboysuganob8552) 

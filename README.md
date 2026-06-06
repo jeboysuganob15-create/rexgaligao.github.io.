@@ -1,4 +1,4 @@
-
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6f2762b8-19d7-41c0-a0ca-997d44ea5c56" />
 
 <!--
 **jeboysuganob15-create/jeboysuganob15-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -60,10 +60,12 @@ In this project, we are going to build a Gender Equality Reporting and Inclusion
 
 ---
 
-##  Contact Me
-
-**✉️Email:** jeboysuganob15@gmail.com |  **📺YouTube:** [jeboysuganob8552](https://www.youtube.com/@jeboysuganob8552) |  **🐙GitHub:** [Rex-Galigao](https://github.com/jeboysuganob15-create) |  *📞Phone:* 09670127090
-  
+## 📫 Contact Me
+[![Email](https://img.shields.io/badge/Email-jeboysuganob15%40gmail.com-red?logo=gmail)](mailto:jeboysuganob15@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-jeboysuganob8552-red?logo=youtube)](https://www.youtube.com/@jeboysuganob8552)
+[![GitHub](https://img.shields.io/badge/GitHub-Rex--Galigao-black?logo=github)](https://github.com/jeboysuganob15-create)
+[![Phone](https://img.shields.io/badge/Phone-09670127090-green?logo=whatsapp)](tel:09670127090)
+[![Resume](https://img.shields.io/badge/Resume-View%20Here-red?logo=readme)](https://rexgaligao.github.io/resume)
 
   
 

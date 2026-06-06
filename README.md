@@ -60,6 +60,10 @@ In this project, we are going to build a Gender Equality Reporting and Inclusion
 ---
 
 ## 📫 Contact Me
-**✉️Email:** jeboysuganob15@gmail.com |  **YouTube:** [jeboysuganob8552](https://www.youtube.com/@jeboysuganob8552) |  **🐙GitHub:** [Rex-Galigao](https://github.com/jeboysuganob15-create) |  *📞Phone:* 09670127090
+
+✉️ [Email](mailto:jeboysuganob15@gmail.com)  
+📺 [YouTube](https://www.youtube.com/@jeboysuganob8552)  
+🐙 [GitHub](https://github.com/jeboysuganob15-create)  
+📞 [Phone](tel:09670127090)
   
 

@@ -46,6 +46,8 @@ The Sustainable Blue Economy Network Portal is a web based platform that utilize
 
 **Repository:** [Feedback System](https://github.com/jeboysuganob15-create/laravel_economy)
 
+*Note:* This is not completely finished.
+
 ---
 
 

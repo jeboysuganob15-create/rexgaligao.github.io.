@@ -42,7 +42,7 @@ I am still learning the logic behind structuring data efficiently, especially in
 
 
 ### SUSTAINABLE BLUE ECONOMY NETWORK PORTAL
-A web application that organizes user-submitted reports by type (discrimination, harassment, bias). Built with PHP and MySQL, styled with CSS for clarity and usability.  
+The Sustainable Blue Economy Network Portal is a web based platform that utilizes PHP for serverside scripting, MySQL for database development and CSS to provide an easy clean friendly design. It supports businesses on the coast that wish to register or advertise their work, while providing a platform for institutions and communities to share information, build bridges, and promote sustainable organization. The portal facilitates collaboration by improving visibility into marine biodiversity and therefore contributes to equitable opportunities aligned with global goals such as SDG 14: Life Below Water.
 
 **Repository:** [Feedback System](https://github.com/jeboysuganob15-create/laravel_economy)
 

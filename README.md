@@ -43,22 +43,15 @@ I am still learning the logic behind structuring data efficiently, especially in
 ##  Projects
 
 
-### Feedback Categorization System
+### SUSTAINABLE BLUE ECONOMY NETWORK PORTAL
 A web application that organizes user-submitted reports by type (discrimination, harassment, bias). Built with PHP and MySQL, styled with CSS for clarity and usability.  
 
 **Repository:** [Feedback System](https://github.com/jeboysuganob15-create/laravel_economy)
 
 ---
 
-### GERIMS Reporting System
-A PHP & MySQL-based reporting system with custom CSS for UI. Designed to handle report submissions, categorization, and admin responses with accurate database integration.  
 
-**Repository:** [GERIMS Reporting System](https://github.com/jeboysuganob15-create/Rex-Galigao)
-
----
-
-
-### GERIMS Reporting System
+### GENDER EQUALIY REPORTING AND INCLUSION MONITORING SYSTEM (GERIMS) 
 In this project, we are going to build a Gender Equality Reporting and Inclusion Monitoring System — a secure web-based application using PHP, MySQL, custom CSS for easy and simple front end. The provisions within the platform allow for individuals to seamlessly log concerns or issues pertaining to gender matters online and institutions can track, assess and measure institutional inclusivity in a systematic manner. Reports are categorized for more clarity, administrators can pull them up and respond directly or track the progress through integration of data into databases. The goal is to is to create a transparent and accountable system that not only handles reports efficiently but also supports meaningful action toward gender equality.
 **Repository:** [GERIMS Reporting System](https://github.com/jeboysuganob15-create/Rex-Galigao)
 

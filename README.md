@@ -58,12 +58,5 @@ In this project, we are going to build a Gender Equality Reporting and Inclusion
 **Repository:** [GERIMS Reporting System](https://github.com/jeboysuganob15-create/gerimus_reporting_system)
 
 ---
-
 ## 📫 Contact Me
-
-✉️ [Email](mailto:jeboysuganob15@gmail.com)  
-📺 [YouTube](https://www.youtube.com/@jeboysuganob8552)  
-🐙 [GitHub](https://github.com/jeboysuganob15-create)  
-📞 [Phone](tel:09670127090)
-  
-
+ *📞Phone:* 096701270 | **✉️Email:** jeboysuganob15@gmail.com |  **🐙GitHub:** [Rex-Galigao](https://github.com/jeboysuganob15-create) | **YouTube:** [jeboysuganob8552](https://www.youtube.com/@jeboysuganob8552) 

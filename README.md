@@ -30,7 +30,7 @@ I am currently building my skills in UI design and gaining some expercience with
 
 I am still learning the logic behind structuring data efficiently, especially in UI designing while also improving my skills in backend development. Through consistent practice with HTML, CSS, and MySQL.
 
-## 🛠 Skills
+##  Skills
 **Frontend Development**  
 - HTML5  
 - CSS3  
@@ -40,7 +40,7 @@ I am still learning the logic behind structuring data efficiently, especially in
 - MySQL  
 - Laravel (basic)
 
-## 📂 Projects
+##  Projects
 
 ### GERIMS Reporting System
 A PHP & MySQL-based reporting system with custom CSS for UI. Designed to handle report submissions, categorization, and admin responses with accurate database integration.  
@@ -56,7 +56,7 @@ A web application that organizes user-submitted reports by type (discrimination,
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 - **Email:** jeboysuganob15@gmail.com  
 - **YouTube:** [jeboysuganob8552](https://www.youtube.com/@jeboysuganob8552)  
 - **GitHub:** [Rex-Galigao](https://github.com/jeboysuganob15-create)
